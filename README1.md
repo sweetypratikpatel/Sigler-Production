@@ -7,5 +7,5 @@ git push -u origin master
 echo "#bhavika chnages"
 echo "#bhavika chnagesdata"
 echo "#bhavika chnagesdata"
-echo "#new demo and testing"
+echo "#new demo and testing Selenium"
 
